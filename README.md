@@ -1,3 +1,3 @@
-# My Awesome Book
+# Asp.Net MVC Notebook
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+用來記錄學習Asp.Net的筆記本.
